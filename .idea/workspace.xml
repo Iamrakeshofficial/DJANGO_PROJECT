@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2df961c7-111f-474c-9018-6624ffad2cc4" name="Changes" comment="Hi Rakesh, We have done CRUD operations.">
+      <change beforePath="$PROJECT_DIR$/.idea/DJANGO_PROJECT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DJANGO_PROJECT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EKART/EKART/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/EKART/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EKART/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EKART/flipkart/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/flipkart/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EKART/flipkart/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/flipkart/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EKART/flipkart/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/flipkart/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EKART/flipkart/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/flipkart/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2GJTYrwrvYR2Ur4T2Fn3X9IbfUT" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2df961c7-111f-474c-9018-6624ffad2cc4" name="Changes" comment="" />
+      <created>1666105742763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666105742763</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Hi Rakesh, We have done CRUD operations.">
+      <created>1666105801430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666105801430</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hi Rakesh, We have done CRUD operations.">
+      <created>1666105891672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666105891672</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hi Rakesh, We have done CRUD operations." />
+    <option name="LAST_COMMIT_MESSAGE" value="Hi Rakesh, We have done CRUD operations." />
+  </component>
+</project>
