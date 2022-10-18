@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2df961c7-111f-474c-9018-6624ffad2cc4" name="Changes" comment="Hi Rakesh, We have done CRUD operations.">
-      <change beforePath="$PROJECT_DIR$/.idea/DJANGO_PROJECT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DJANGO_PROJECT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EKART/EKART/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/EKART/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EKART/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EKART/flipkart/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/flipkart/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EKART/flipkart/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/flipkart/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EKART/flipkart/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/flipkart/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EKART/flipkart/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/EKART/flipkart/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666105891672</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hi Rakesh, We have done CRUD operations.">
+      <created>1666106474231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666106474231</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
